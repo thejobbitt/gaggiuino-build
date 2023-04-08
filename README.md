@@ -1,5 +1,3 @@
-# gaggiuino build log
+# gaggiuino
 
-- gaggia classic pro
-- 120 VAC
-- PCB v3 
+A place to store the items I've created for the Gaggiuino Project.
