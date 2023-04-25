@@ -7,7 +7,8 @@ Still a bit of a work in progress, the scrren plug CAD could use some work. Spec
 - Make screen easy to remove
 
 <img width="500" height="375" src="https://github.com/thejobbitt/gaggiuino-build/blob/main/3d%20prints/Prog%20Backpack/photos/pbp_final01.jpg">
-
+<img width="500" height="375" src="https://github.com/thejobbitt/gaggiuino-build/blob/main/3d%20prints/Prog%20Backpack/photos/pbp_final02.jpg">
+<img width="500" height="375" src="https://github.com/thejobbitt/gaggiuino-build/blob/main/3d%20prints/Prog%20Backpack/photos/pbp_final03.jpg">
 ### Required Electronics
 USB C Board - 
 https://www.amazon.com/dp/B09KC1SMGD?psc=1&ref=ppx_yo2ov_dt_b_product_details
