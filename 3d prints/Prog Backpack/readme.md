@@ -1,5 +1,5 @@
 ## Programming Backpack
-! [backpack](https://github.com/thejobbitt/gaggiuino-build/blob/main/3d%20prints/Prog%20Backpack/photos/pbp_final01.jpg)
+<img align="left" width="100" height="100" src="https://github.com/thejobbitt/gaggiuino-build/blob/main/3d%20prints/Prog%20Backpack/photos/pbp_final01.jpg">
 
 ### Electronics
 USB C Board - 
