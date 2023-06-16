@@ -1,5 +1,5 @@
 ## Programming Backpack
-Still a bit of a work in progress, the scrren plug CAD could use some work. Special thanks to polygonfuture for the inspiration. 
+Still a bit of a work in progress, the screen plug CAD could use some work. Special thanks to polygonfuture for the inspiration. 
 ### Goals of this mod
 - Make the Blackpill easier to program with USB C
 - No custom dongles need to program aka onboard ST Link
